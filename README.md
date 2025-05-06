@@ -1,4 +1,11 @@
-# mkdocs
+# Welcome to Sample MkDocs
 
-Test site. Following [Squidfunk](https://squidfunk.github.io/mkdocs-material/publishing-your-site/?h=github#with-github-actions). Got working from [issue here](https://github.com/mkdocs/mkdocs/issues/2255#issuecomment-922165394).
+<p align="center">
+  <img src="./docs/images/logo.png" width="200" height="200"  />
+<p>
 
+What you have to do?
+
+- Clone or Use this repo (Uncheck "Copy the main branch only" option)
+- Enable Github Actions
+- Go to Settings > Pages, and select the gh-pages branch as source then save.

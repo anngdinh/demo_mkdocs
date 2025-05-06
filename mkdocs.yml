@@ -1,9 +1,8 @@
-site_name: AWS MCP Servers
+site_name: Demo MkDocs
 
 site_url: https://anngdinh.github.io/demo_mkdocs/
 repo_name: 'anngdinh/demo_mkdocs'
 repo_url: 'https://github.com/anngdinh/demo_mkdocs'
-copyright: '&copy; Amazon Web Services, Inc. or its affiliates. All rights reserved.'
 
 theme:
   name: material
@@ -28,20 +27,8 @@ plugins:
   - include-markdown
 nav:
   - Home: index.md
-  - AWS MCP Servers:
-    - Core MCP Server: servers/core-mcp-server.md
-    - Amazon Bedrock Knowledge Base Retrieval MCP Server: servers/bedrock-kb-retrieval-mcp-server.md
-    - AWS CDK MCP Server: servers/cdk-mcp-server.md
-    - Cost Analysis MCP Server: servers/cost-analysis-mcp-server.md
-    - Amazon Nova Canvas MCP Server: servers/nova-canvas-mcp-server.md
-    - AWS Documentation MCP Server: servers/aws-documentation-mcp-server.md
-    - AWS Lambda MCP Server: servers/lambda-mcp-server.md
-    - AWS Diagram MCP Server: servers/aws-diagram-mcp-server.md
-    - AWS Terraform MCP Server: servers/aws-terraform-mcp-server.md
-    - Git Repo Research MCP Server: servers/git-repo-research-mcp-server.md
-  - Samples:
-    - Home: samples/index.md
-    - MCP Integration with Amazon Bedrock Knowledge Bases: samples/mcp-integration-with-kb.md
+  - AI:
+    - AI Agent: ai/ai-agent.md
 markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
