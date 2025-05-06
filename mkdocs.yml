@@ -1,8 +1,8 @@
-git site_name: AWS MCP Servers
-site_url: https://awslabs.github.io/mcp
-
-repo_name: 'awslabs/mcp'
-repo_url: 'https://github.com/awslabs/mcp'
+site_name: AWS MCP Servers
+docs_dir: docs/
+site_url: https://anngdinh.github.io/demo_mkdocs/
+repo_name: 'anngdinh/demo_mkdocs'
+repo_url: 'https://github.com/anngdinh/demo_mkdocs'
 copyright: '&copy; Amazon Web Services, Inc. or its affiliates. All rights reserved.'
 
 theme:
