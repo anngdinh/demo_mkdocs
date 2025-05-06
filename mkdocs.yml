@@ -1,5 +1,5 @@
 site_name: AWS MCP Servers
-docs_dir: docs/
+
 site_url: https://anngdinh.github.io/demo_mkdocs/
 repo_name: 'anngdinh/demo_mkdocs'
 repo_url: 'https://github.com/anngdinh/demo_mkdocs'
