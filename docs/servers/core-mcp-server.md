@@ -2,4 +2,4 @@
 title: Core MCP Server
 ---
 
-{%include "../../src/core-mcp-server/README.md"%}
+<!-- {%include "../../src/core-mcp-server/README.md"%} -->
