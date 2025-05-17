@@ -29,6 +29,9 @@ nav:
   - Home: index.md
   - AI:
     - AI Agent: ai/ai-agent.md
+  - English:
+    - Writing:
+        - Task 1: english/writing/task-1.md
 markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
