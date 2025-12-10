@@ -6,12 +6,13 @@
   - [Catalogue](#catalogue)
   - [Công thức](#công-thức)
     - [Line graph](#line-graph)
+    - [Bar chart](#bar-chart)
   - [Summary](#summary)
   - [Line graph](#line-graph-1)
     - [Line 1](#line-1)
     - [Line 2](#line-2)
     - [Line 3](#line-3)
-  - [Bar chart](#bar-chart)
+  - [Bar chart](#bar-chart-1)
   - [Pie chart](#pie-chart)
   - [Table](#table)
     - [Table 1](#table-1)
@@ -33,8 +34,16 @@
     - `______ experienced fluctuations over the period, but ...`
   - Có 1 đường duy trì sự lớn nhất trong biểu đồ (gần như hầu hêt các năm):
     - `Notably, _______ maintained the lowest/highest throughout the most of the given years.`
-- Body 1
-- Body 2
+- Body
+  - Nếu quá ít năm và ít đường, có thể body 1 miêu tả starting point và body 2 miêu tả sự thay đổi.
+  - Chia theo thời gian (giai đoạn)
+  - Chia theo các đường trong biểu đồ
+
+### Bar chart
+
+- Introduction:
+  - `The bar chart + show(s)/illustrate(s)/give(s) information about + 3W (what?, where?, when?)`
+- Overview: same
 
 ## Summary
 
@@ -43,6 +52,7 @@
   - > the price of X was 1000, which is higher than Y's price, at 800.
   - > the price of X was 1000, which is higher than Y's price, with a figure of 800.
   - > The number of X (stood at | was) 1000, ...
+  - > The number of X (accounted for | made up) 1000, ... (chiếm)
 - Comparative
   - > ... higher than | the figure for X.
   - > ... higher than | that of X.
@@ -64,7 +74,7 @@
   - > ... maintained a steady growth throughout the period.
   - > ... maintained a steady growth throughout most of the given years.
 - Some ways to mention many nuber in a sentence
-  - > X's number was 100, followed by Y and Z, at 80 and 81 respectively, which are **roughly double** the figure for W, at 40.
+  - > X's number was 100, followed by Y and Z, at 80 and 81 it, which are **roughly double** the figure for W, at 40.
 - Speed:
   - > significant(ly), rapid(ly), dramatic(ally)
   - > steady (steadily), moderate(ly)
